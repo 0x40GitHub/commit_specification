@@ -1,6 +1,10 @@
 <a name="unreleased"></a>
 ## [Unreleased]
 
+### Docs
+- **docs:** generate CHANGEOG use git-chglog
+- **docs:** modify README.md
+
 
 <a name="v1.0.0"></a>
 ## v1.0.0 - 2024-01-23
